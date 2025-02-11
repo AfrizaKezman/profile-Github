@@ -16,18 +16,18 @@ I'm a passionate developer with a keen interest in coding and technology. I love
   - Python
   - Java
   - C++
-  - [Add more languages you know]
+
 
 - **Frameworks and Libraries:**
   - React
   - Node.js
   - Django
-  - [Add more frameworks/libraries you use]
+
 
 - **Tools and Technologies:**
   - Git & GitHub
   - Docker
-  - [Add more tools/technologies]
+
 
 ## Projects
 
@@ -36,12 +36,12 @@ Here are some of the projects I've worked on:
 1. **Project Name**
    - Description: A brief description of what the project is about.
    - Technologies: List of technologies used.
-   - [Link to the project](#)
+
 
 2. **Project Name**
    - Description: A brief description of what the project is about.
    - Technologies: List of technologies used.
-   - [Link to the project](#)
+
 
 [Add more projects]
 
